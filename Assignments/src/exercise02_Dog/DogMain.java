@@ -5,7 +5,7 @@ public class DogMain {
         Dog dog1 = new Dog("Buddy", "Labrador");
         Dog dog2 = new Dog("Max", "Beagle");
 
-        dog1.setName("Charlie");
+        dog1.setName("norry");
         dog1.setBreed("Golden Retriever");
 
         System.out.println("Dog 1: - DogMain.java:11" + dog1.getName() + " (" + dog1.getBreed() + ")");
